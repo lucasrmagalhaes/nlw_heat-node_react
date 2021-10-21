@@ -39,3 +39,19 @@ yarn prisma init
 yarn add dotenv
 ```
 
+##### Instalação do axios
+```
+yarn add axios
+```
+```
+yarn add @types/axios -D
+```
+
+##### Instalação do axios
+```
+yarn add jsonwebtoken
+```
+
+```
+yarn add @types/jsonwebtoken -D
+```
