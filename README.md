@@ -55,3 +55,13 @@ yarn add jsonwebtoken
 ```
 yarn add @types/jsonwebtoken -D
 ```
+
+##### Rodando o migrate - cria a tabela
+```
+yarn prisma migrate dev
+```
+
+##### Instalação do prisma/client
+```
+yarn add @prisma/client
+```
