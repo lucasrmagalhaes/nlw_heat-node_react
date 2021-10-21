@@ -61,7 +61,12 @@ yarn add @types/jsonwebtoken -D
 yarn prisma migrate dev
 ```
 
-##### Instalação do prisma/client
+##### Instalação do @prisma/client
 ```
 yarn add @prisma/client
+```
+
+##### Prima Studio - Estrutura do Banco de Dados
+```
+yarn prisma studio
 ```
