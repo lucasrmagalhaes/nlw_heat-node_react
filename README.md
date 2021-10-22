@@ -70,3 +70,21 @@ yarn add @prisma/client
 ```
 yarn prisma studio
 ```
+
+##### Instalação do socket.io
+```
+yarn add socket.io
+```
+
+```
+yarn add @types/socket.io -D
+```
+
+##### Instalação do Cors
+```
+yarn add cors
+```
+
+```
+yarn add @types/cors -D
+```
