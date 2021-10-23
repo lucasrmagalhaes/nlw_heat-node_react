@@ -9,3 +9,8 @@ yarn create vite react --template react-ts
 ```
 yarn add sass
 ```
+
+##### Instação do React Icons
+```
+yarn add react-icons
+```
