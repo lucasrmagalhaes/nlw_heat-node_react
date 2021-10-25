@@ -14,3 +14,8 @@ yarn add sass
 ```
 yarn add react-icons
 ```
+
+##### Instação do axios
+```
+yarn add axios
+```
