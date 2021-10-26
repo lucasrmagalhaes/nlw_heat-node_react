@@ -44,6 +44,8 @@ export function AuthProvider({ children }: AuthProvider) {
 
         localStorage.setItem('@dowhile:token', token);
         
+        api.defaults.headers.common.authorization = `Bearer ${token}`;
+
         setUser(user);
     }
 
