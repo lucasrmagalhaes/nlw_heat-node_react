@@ -1,4 +1,4 @@
-### [NLW Heat] Mission: Impulse
+### [NLW Heat] Mission: Impulse - Node
 
 ##### Inicializando o package.json
 ```
