@@ -1,21 +1,23 @@
+### [NLW Heat] Mission: Impulse - React
+
 [Vite](https://vitejs.dev/guide/)
 
-##### Criando o projeto
+##### Criando o Projeto
 ```
 yarn create vite react --template react-ts
 ```
 
-##### Instação do SASS
+##### Instalação do SASS
 ```
 yarn add sass
 ```
 
-##### Instação do React Icons
+##### Instalação do React Icons
 ```
 yarn add react-icons
 ```
 
-##### Instação do axios
+##### Instalação do axios
 ```
 yarn add axios
 ```
