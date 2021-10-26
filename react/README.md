@@ -21,3 +21,8 @@ yarn add react-icons
 ```
 yarn add axios
 ```
+
+##### Instalação do socket.io-client
+```
+yarn add socket.io-client
+```
